@@ -45,11 +45,12 @@ Use um servidor HTTP simples, como o http-server do Node.js:
     Acesse http://localhost:8080 no seu navegador.
 
 ### Como Contribuir
-Faça um fork deste repositório.
-Crie uma branch para a sua feature (git checkout -b minha-feature).
-Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
-Faça push para a branch (git push origin minha-feature).
-Abra um Pull Request explicando as suas alterações.
+
+- Faça um fork deste repositório.
+- Crie uma branch para a sua feature (git checkout -b minha-feature).
+- Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
+- Faça push para a branch (git push origin minha-feature).
+- Abra um Pull Request explicando as suas alterações.
 
 ### Licença
 
