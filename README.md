@@ -18,6 +18,7 @@ O **SistemaSolar3D-2D** é um projeto interativo que simula o sistema solar, uti
 
 ## Como Rodar o Projeto
 
+
 ### Requisitos
 
 - Navegador moderno (Google Chrome, Firefox, etc.).
