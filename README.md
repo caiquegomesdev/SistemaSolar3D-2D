@@ -58,6 +58,6 @@ Use um servidor HTTP simples, como o http-server do Node.js:
     Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 ### Contato
-Se você tiver alguma dúvida ou sugestão, fique à vontade para abrir uma issue ou enviar um pull request!
+Se você tiver alguma dúvida ou sugestão, fique à vontade para abrir uma issue ou enviar um pull request!!
 
 # Desenvolvido por Caíque Gomes.
